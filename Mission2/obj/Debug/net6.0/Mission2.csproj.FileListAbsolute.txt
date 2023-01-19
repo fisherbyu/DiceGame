@@ -1,0 +1,15 @@
+/Users/andrewfisher/Library/CloudStorage/OneDrive-BrighamYoungUniversity/Documents/School Files/2022-2023 Year BYU/Winter 2023/IS 413/Projects/Mission2/Mission2/bin/Debug/net6.0/Mission2
+/Users/andrewfisher/Library/CloudStorage/OneDrive-BrighamYoungUniversity/Documents/School Files/2022-2023 Year BYU/Winter 2023/IS 413/Projects/Mission2/Mission2/bin/Debug/net6.0/Mission2.deps.json
+/Users/andrewfisher/Library/CloudStorage/OneDrive-BrighamYoungUniversity/Documents/School Files/2022-2023 Year BYU/Winter 2023/IS 413/Projects/Mission2/Mission2/bin/Debug/net6.0/Mission2.runtimeconfig.json
+/Users/andrewfisher/Library/CloudStorage/OneDrive-BrighamYoungUniversity/Documents/School Files/2022-2023 Year BYU/Winter 2023/IS 413/Projects/Mission2/Mission2/bin/Debug/net6.0/Mission2.dll
+/Users/andrewfisher/Library/CloudStorage/OneDrive-BrighamYoungUniversity/Documents/School Files/2022-2023 Year BYU/Winter 2023/IS 413/Projects/Mission2/Mission2/bin/Debug/net6.0/Mission2.pdb
+/Users/andrewfisher/Library/CloudStorage/OneDrive-BrighamYoungUniversity/Documents/School Files/2022-2023 Year BYU/Winter 2023/IS 413/Projects/Mission2/Mission2/obj/Debug/net6.0/Mission2.csproj.AssemblyReference.cache
+/Users/andrewfisher/Library/CloudStorage/OneDrive-BrighamYoungUniversity/Documents/School Files/2022-2023 Year BYU/Winter 2023/IS 413/Projects/Mission2/Mission2/obj/Debug/net6.0/Mission2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewfisher/Library/CloudStorage/OneDrive-BrighamYoungUniversity/Documents/School Files/2022-2023 Year BYU/Winter 2023/IS 413/Projects/Mission2/Mission2/obj/Debug/net6.0/Mission2.AssemblyInfoInputs.cache
+/Users/andrewfisher/Library/CloudStorage/OneDrive-BrighamYoungUniversity/Documents/School Files/2022-2023 Year BYU/Winter 2023/IS 413/Projects/Mission2/Mission2/obj/Debug/net6.0/Mission2.AssemblyInfo.cs
+/Users/andrewfisher/Library/CloudStorage/OneDrive-BrighamYoungUniversity/Documents/School Files/2022-2023 Year BYU/Winter 2023/IS 413/Projects/Mission2/Mission2/obj/Debug/net6.0/Mission2.csproj.CoreCompileInputs.cache
+/Users/andrewfisher/Library/CloudStorage/OneDrive-BrighamYoungUniversity/Documents/School Files/2022-2023 Year BYU/Winter 2023/IS 413/Projects/Mission2/Mission2/obj/Debug/net6.0/Mission2.dll
+/Users/andrewfisher/Library/CloudStorage/OneDrive-BrighamYoungUniversity/Documents/School Files/2022-2023 Year BYU/Winter 2023/IS 413/Projects/Mission2/Mission2/obj/Debug/net6.0/refint/Mission2.dll
+/Users/andrewfisher/Library/CloudStorage/OneDrive-BrighamYoungUniversity/Documents/School Files/2022-2023 Year BYU/Winter 2023/IS 413/Projects/Mission2/Mission2/obj/Debug/net6.0/Mission2.pdb
+/Users/andrewfisher/Library/CloudStorage/OneDrive-BrighamYoungUniversity/Documents/School Files/2022-2023 Year BYU/Winter 2023/IS 413/Projects/Mission2/Mission2/obj/Debug/net6.0/Mission2.genruntimeconfig.cache
+/Users/andrewfisher/Library/CloudStorage/OneDrive-BrighamYoungUniversity/Documents/School Files/2022-2023 Year BYU/Winter 2023/IS 413/Projects/Mission2/Mission2/obj/Debug/net6.0/ref/Mission2.dll
